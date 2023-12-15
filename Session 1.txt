@@ -1,0 +1,99 @@
+SpringBoot by Abhishek
+======================
+Pre-reqvisit
+------------
+# Core Java
+# Advance Java [JDBC + Servlet]
+# Oracle (SQL)
+# Hibernate (Basic of ORM)
+
+Course content to Learn
+-----------------------
+# Spring
+# Spring JDBC
+# Spring Boot
+# Spring DataJPA
+# Spring Web MVC 
+# RestFull Services (Spring Rest)
+# Spring Cloud
+# Spring Security
+# SpringBoot Integration 
+		- Apache Kafka
+		- Redis cache
+		- Docker
+		- Deployement
+		- Logging
+		- Unit Testing
+		
+		
+Java FrameWork :
+----------------
+# Hibernate
+# Spring
+# SpringBoot
+
+
+@ What is FrameWork ?
+===================
+project Contains :
+------------------
+# DB Logics 
+# Busimess Logics
+# Web Logics
+# Presentation Logics [UI]
+
+1) DB Communication is mandetory :
+----------------------------------
+@ Load Driver
+@ get Connection
+@ Create statement
+@ Execute Query  [Based on Requirement]
+@ Close Connection
+
+# It become boiler plate code that is this step are going to reapeated several time.
+
+2) Web Logic (Request and Response)
+-----------------------------------
+@ Develop Form display Logic
+@ Form Validation
+@ Capture form data
+@ store data in java object
+
+# This logic may be common so it become boiler plate code.
+# FrameWork are readymade software. which will provide several classes to perfrom tasks.
+
+
+@ What is FrameWork 
+====================
+# It is semi-develope software 
+# FrameWork will provide some common logic required for project Deplopement
+# Fr provide re-usable component.
+# FrameWork will reduse burdon on the developers
+# Productivity increase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
